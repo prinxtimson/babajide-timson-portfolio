@@ -3,6 +3,7 @@ require("dotenv").config({
 })
 
 module.exports = {
+  pathPrefix: `/babajide-timson-portfolio`,
   siteMetadata: {
     title: `Babajide Timson`,
     description: `Babajide Timson portfolio website`,
