@@ -26,7 +26,7 @@
     "slugify": "^1.6.5"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^4.0.0",
     "prettier": "^2.4.1"
   },
   "keywords": [
